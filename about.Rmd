@@ -1,5 +1,6 @@
 ---
-title: "About This Website"
+title: "Biography"
 ---
 
-More about this website.
+My name is Georgianna Fischer, but most people call me Georgi. 
+**Hometown:** Bozeman, MT
