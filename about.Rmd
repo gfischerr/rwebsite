@@ -2,5 +2,21 @@
 title: "Biography"
 ---
 
-My name is Georgianna Fischer, but most people call me Georgi. 
+My name is Georgianna Fischer, but most people call me Georgi. I'm an undergrad
+at UNH, going into my senior year. 
+
 **Hometown:** Bozeman, MT
+
+**Major:** Environmental Science: Ecosystems
+
+**Minor:** Geospatial Analysis
+
+**Research Experience:** I've worked in a few labs on campus, and most recently
+I did a SURF through UNH in Minnesota looking at summer chloride concentrations 
+in urban aquatic ecosystems across the Twin Cities area.
+
+**Other Fun Facts:** 
+
+ - I'm on the UNH cross country Ski Team
+ - I recently got to be a plaintiff in the Held v. Montana constitutional 
+climate trial
